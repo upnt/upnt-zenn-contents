@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/upnt/upnt-zenn-contents#readme",
   "dependencies": {
+    "textlint-rule-prh": "^5.3.0",
     "zenn-cli": "^0.1.80"
   }
 }
