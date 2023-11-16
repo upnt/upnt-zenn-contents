@@ -68,8 +68,9 @@ Custom Locationは上のSource Folderと同じ場所
 Zotfile周りの設定は以下のサイトが参考になる
 https://note.com/sdeso/n/n013952313c1b
 
-Tablet settingをしっかりすればタブレット、スマホからももっと読みやすくなるかもしれない
-自分は設定していないのでOneDriveからPDF開いて読んでます
+タブレットやスマホからでもOneDriveアプリ経由で読める
+Tablet settingをしっかりすればもっと読みやすくなるかもしれない
+
 
 ## 詳細\>ファイルとフォルダ
 データ・ディレクトリはクラウドにすると深刻なエラーが起こるらしい
