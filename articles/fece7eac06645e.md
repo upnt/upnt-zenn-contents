@@ -1,5 +1,5 @@
 ---
-title: "Zotero 日本語設定備忘録"
+title: "Zoteroによる英語論文管理・閲覧"
 emoji: "🙌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [zotero]
