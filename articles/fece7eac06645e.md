@@ -65,21 +65,29 @@ Zoteroを便利にするための様々なプラグインが公開されてい�
 ![](/images/zotero/translate1.png)
 ![](/images/zotero/translate2.png)
 
-User Interfaceは翻訳画面開きながら調整するとよい
-バグで設定が反映されないことが多々ある
+User Interfaceは、主にTranslateタブに表示する項目の設定である。翻訳画面を開きながら調整するとよい
+バグで設定が反映されないことがある
 
 ## Zotfile
 ツール(T)\>Zotfile Preferencesから設定
+
 Custom Locationは上のSource Folderと同じ場所
 
+General settingは以下の通り
 ![](/images/zotero/zotfile.png)
+
+subfolderを設定すると、保存するファイルをルールに従って分類してくれる。例えば、私は"/%c"に設定しているが、これをするとコレクションでファイルを分類してくれるため、OneDrive上でもファイルを見つけやすくなる
 
 Zotfile周りの設定は以下のサイトが参考になる
 https://note.com/sdeso/n/n013952313c1b
 
-タブレットやスマホからでもOneDriveアプリ経由で読める
-Tablet settingをしっかりすればもっと読みやすくなるかもしれない
+iPadでは、PDF Expartが便利
 
+PDF ExpartなどのPDF ReaderでOneDriveのファイルを開けばよい
+
+ファイル名が分かりやすいようにRenaming Rulesも変更する
+
+![](/images/zotero/rename.png)
 
 ## 詳細\>ファイルとフォルダ
 データ・ディレクトリはクラウドにすると深刻なエラーが起こるらしい
