@@ -5,7 +5,11 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [zotero]
 published: true
 ---
-
+:::message alert
+この記事で使用しているZotfileは、2024/08/18時点でおそらくZotero 7に対応していません。
+この記事を参考にする場合、Zotero 6を使用してください。
+ZotfileがZotero 7で使用できることを確認次第、記事を更新します。
+:::
 # はじめに
 Zoteroを使って英語論文などを管理、閲覧するための設定方法を紹介する
 
