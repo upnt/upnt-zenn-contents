@@ -46,7 +46,9 @@ Zoteroを便利にするための様々なプラグインが公開されてい�
 
 - [PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
 	- ZoteroのPDFリーダーに翻訳機能を追加する
-	- ドラッグするだけで翻訳してくれるすごい機能(ただしバグあり)
+	- ドラッグするだけで翻訳してくれるすごい機能
+	- Release v2.0.0はZotero 7用?
+	  - Release v1.0.28だと動作することを確認
 
 プラグインはツール(T)\>アドオンでAdd-ons Managerを開き、歯車アイコンにあるInstall add-on From Fileでxpiファイルを開けばいい
 # 設定
