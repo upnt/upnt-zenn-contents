@@ -51,14 +51,15 @@ Zoteroを便利にするための様々なプラグインが公開されてい�
 - [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
 
   - TeXの参考文献
+  - Zotero 7上でも動作
 
 - [PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
+
   - ZoteroのPDFリーダーに翻訳機能を追加する
   - ドラッグするだけで翻訳してくれるすごい機能
-  - Release v2.0.0はZotero 7用?
-    - Release v1.0.28だと動作することを確認
+  - 最新のRelease v2.0.5はZotero 7で動かせる
 
-プラグインはツール(T)\>アドオンでAdd-ons Managerを開き、歯車アイコンにあるInstall add-on From Fileでxpiファイルを開けばいい
+プラグインはツール(T)\>アドオンでAdd-ons Managerを開き、歯車アイコンにあるInstall add-on From Fileでxpiファイルを開くとインストールできる。
 
 ## 設定
 
@@ -86,7 +87,7 @@ Zoteroを便利にするための様々なプラグインが公開されてい�
 User Interfaceは、主にTranslateタブに表示する項目の設定である。翻訳画面を開きながら調整するとよい
 バグで設定が反映されないことがある
 
-### Zotfile
+### ~~Zotfile~~
 
 ツール(T)\>Zotfile Preferencesから設定
 
@@ -113,6 +114,9 @@ PDF ExpartなどのPDF ReaderでOneDriveのファイルを開けばよい
 データ・ディレクトリはクラウドにすると深刻なエラーが起こるらしい
 
 ![ファイルとフォルダ](/images/zotero/folder.png)
+
+ここの基本ディレクトリを設定することでPDFファイルを指定したディレクトリに保存できる(はず...)
+例えばGoogleDriveに保存する場合は`G:\マイドライブ\Zotero`とかにすればよい
 
 ### 同期
 
