@@ -77,6 +77,8 @@ Zoteroを便利にするための様々なプラグインが公開されてい�
 
 ![一般](/images/zotero/standard.png)
 
+Zotero 7になってFile Renamingというのが追加された。これを使えばZotFileでよく使われてたファイル名変更をできるかも?(要検証)
+
 ### PDF Translate
 
 サイドパネルのTranslateタブを開きながらPDFを読む想定
@@ -109,7 +111,7 @@ PDF ExpartなどのPDF ReaderでOneDriveのファイルを開けばよい
 
 ![Renaming Rules](/images/zotero/rename.png)
 
-### 詳細\>ファイルとフォルダ
+### 詳細\>ファイルとフォルダ (ZotFileの代用)
 
 データ・ディレクトリはクラウドにすると深刻なエラーが起こるらしい
 
