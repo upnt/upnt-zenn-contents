@@ -41,11 +41,12 @@ Zoteroを便利にするための様々なプラグインが公開されてい�
 プラグインの一覧は[Zoteroの公式サイト](https://www.zotero.org/support/plugins)から確認可能
 今回は次のプラグインを使用する
 
-- [ZotFile](http://zotfile.com/)
+- ~~[ZotFile](http://zotfile.com/)~~
 
-  - ZoteroをOneDriveで管理するために必要
+  - ~~ZoteroをOneDriveで管理するために必要~~
+    - 設定 > 詳細 > 基本ディレクトリを`G:/マイドライブ/Zotero`のように設定して代用可能
   - Google DriveやDrop Boxも利用可能(パスが通せればなんでもいい)
-  - これがないとZotero公式リポジトリを使うことになる(容量に限界がある)
+  - これがないとZotero公式リポジトリ(Zotero Storage)を使うことになる(容量に限界がある)
 
 - [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
 
